@@ -7,6 +7,7 @@ The objective is to generate high-quality synthetic ECG signals conditioned on s
 individual subjects based on their ECG patterns.
 
 **Key Components:**
+
 1 - Data Preprocessing & Feature Extraction:
 
 Raw ECG signals are preprocessed to normalize the data and extract key features such as RR intervals, mean, variance, and statistical properties of the signals.
