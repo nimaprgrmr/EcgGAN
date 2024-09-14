@@ -28,6 +28,7 @@ Extracted features from the ECG signals, such as mean and variance, are used to 
 Signal Classification Using LSTM-CNN Model:
 
 4 - A hybrid LSTM-CNN model is built to classify ECG signals and predict the subject ID based on the input signal.
+
 The model combines LSTM layers for capturing temporal dependencies in the ECG signals and convolutional layers for extracting spatial features.
 After training, the model is evaluated on both real and GAN-generated signals to assess its ability to identify subjects accurately.
 
